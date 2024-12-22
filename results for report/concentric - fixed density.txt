@@ -1,0 +1,16 @@
+size_ratio = 1.0, succ rate=0.8
+size_ratio = 1.1, succ rate=0.9
+size_ratio = 1.2, succ rate=0.75
+size_ratio = 1.3, succ rate=0.7
+size_ratio = 1.4, succ rate=0.6
+size_ratio = 1.5, succ rate=0.45
+size_ratio = 1.6, succ rate=0.4
+size_ratio = 1.7, succ rate=0.55
+size_ratio = 1.8, succ rate=0.55
+size_ratio = 1.9, succ rate=0.65
+size_ratio = 2.0, succ rate=0.55
+size_ratio = 2.1, succ rate=0.5
+size_ratio = 2.2, succ rate=0.3
+size_ratio = 2.3, succ rate=0.15
+size_ratio = 2.4, succ rate=0.15
+size_ratio = 2.5, succ rate=0.3
